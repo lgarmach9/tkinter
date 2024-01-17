@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <interfaz>
-    <campo tipo="entrada" texto=""></campo>
-    <campo tipo="etiqueta" texto="Primera etiqueta"></campo>
-    <campo tipo="boton" texto="Primer boton"></campo>
-    <campo tipo="etiqueta" texto="Segunda etiqueta></campo>
-    <campo tipo="boton" texto="Segundo boton"></campo>
+    <campo tipo="etiqueta" texto="Como te sientes hoy?"></campo>
+    <campo tipo="seleccion" texto="GENIAL :)"></campo>
+    <campo tipo="seleccion" texto="mal :("></campo>
+    <campo tipo="etiqueta" texto="Animate con esta cancion"></campo>
+    <campo tipo="etiqueta" texto="Pulsa el play"></campo>
+    <campo tipo="boton" texto="Play"></campo>
+    <campo tipo="deslizable"></campo>
+    <campo tipo="etiqueta" texto="Cuentame como te sientes"></campo>
+    <campo tipo="entrada" texto=""></campo>    
 </interfaz>
