@@ -1,0 +1,5 @@
+entrada
+etiqueta,mensaje personalizado
+boton,pulsa este boton
+etiqueta,esta es la segunda parte del formulario
+boton, pulsa este boton final
