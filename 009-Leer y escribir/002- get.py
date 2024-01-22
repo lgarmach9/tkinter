@@ -8,7 +8,7 @@ def leerValor():
 def ponerValor():
     print("Pongo el valor de la entrada")
     entrada.delete(0,tk.END)
-    entrada.insert(0,"Nuevo valor"))
+    entrada.insert(0,"Nuevo valor")
       
 raiz = tk.Tk()
 
